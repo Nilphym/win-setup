@@ -1,6 +1,7 @@
 ## What this script does?
 
-* Strips Windows 10 of many pre-built features, tracking and apps
+* Strips Windows 10 of many pre-built features, tracking and apps  
+*(removes Windows Store, won't remove Calculator)*
 * Enables only security updates
 * Cleans taskbar
 * Restores good old Windows Photo Viewer and sets it as default
