@@ -20,8 +20,12 @@
 	Get-AppxPackage *bingweather* | Remove-AppxPackage
 	Get-AppxPackage *ScreenSketch* | Remove-AppxPackage
 	Get-AppxPackage *Paint3D* | Remove-AppxPackage
+	Get-AppxPackage *MSPaint* | Remove-AppxPackage
+	Get-AppxPackage *YourPhone* | Remove-AppxPackage
+	Get-AppxPackage *Wallet* | Remove-AppxPackage
+	Get-AppxPackage *StorePurchaseApp* | Remove-AppxPackage
 	Get-AppxPackage *UbuntuonWindows* | Remove-AppxPackage
-	Get-AppxPackage *XboxGameCallableUI* | Remove-AppxPackage
+	Get-AppxPackage *MixedReality* | Remove-AppxPackage
 	Get-AppxPackage *XboxGamingOverlay* | Remove-AppxPackage
 	Get-AppxPackage *XboxIdentityProvider* | Remove-AppxPackage
 	Get-AppxPackage *MicrosoftStickyNotes* | Remove-AppxPackage
